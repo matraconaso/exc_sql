@@ -1,0 +1,1 @@
+SELECT flightID , Distance  FROM usairlineflights.flights order by Distance limit 10;
